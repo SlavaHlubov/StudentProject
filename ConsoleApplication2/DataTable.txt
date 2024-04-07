@@ -1,0 +1,6 @@
+333346|Hristopher Medov Chetverochnirc|1 1 1 1 1|4 4 4 4 4|
+333346|Hristopher Medov Chetverochnirc|0 1 1 1 1|1 1 1 1 1|
+333347|Hristopherr Medov Pyaterechnirk|0 0 1 1 1|5 5 5 5 4|
+333348|Hristopherrr Medov Cemerochnirc|1 1 1 1 1|7 7 7 7 4|
+333349|Hristopherr Medov Vosmerechnirc|0 0 0 1 1|8 8 8 8 4|
+333345|Hristopherr Medov Devyatochnirc|1 1 1 1 1|9 9 9 9 4|
